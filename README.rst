@@ -17,3 +17,7 @@ python-hl7 is a simple library for parsing messages of Health Level 7
 
    python-hl7 v0.3.0 breaks `backwards compatibility
    <http://python-hl7.readthedocs.org/en/latest/changelog.html#changelog-0-3-0>`_.
+
+.. warning::
+
+   This repo is modified by Aakvatech Limited to accomodate integration to ERPNext (https://erpnext.com) of pushing into a custom doctype "Lab Machine Message". Further processing of the message can be managed using custom script.
